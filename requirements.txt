@@ -1,5 +1,5 @@
 watchdog
-google-generativeai
+google-generativeai==0.3.2
 mutagen
 git+https://github.com/pytgcalls/pytgcalls        
 telethon
