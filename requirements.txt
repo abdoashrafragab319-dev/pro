@@ -1,7 +1,7 @@
 watchdog
 google-generativeai==0.3.2
 mutagen
-git+https://github.com/pytgcalls/pytgcalls        
+pytgcalls==2.0.4        
 telethon
 aiocron
 ffmpeg
